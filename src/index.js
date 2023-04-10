@@ -1,4 +1,3 @@
-//First React project started on 7/15/22
 import ReactDOM from 'react-dom/client';
 
 import './index.css';
